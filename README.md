@@ -7,6 +7,6 @@ This repositary contains all the models implemented along with their documentati
 
 
 ### Project Structure
-- CNN Model(Dog vs Cat) Classifier
+- CNN Model (Dog vs Cat) Classifier
 - Employee Attrition Predictor Model
 
