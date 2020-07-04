@@ -1,3 +1,4 @@
-## This repositary contains the various ML and Deep Learning models created in Python
+## ML and Deep Learning Models
 
-Each of them are included in the above folders with their respective datasets
+![Employee Attrition](https://i.ibb.co/j9YNpCc/Future-technology-concept-with-person-using-a-laptop-computer.jpg)
+
