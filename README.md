@@ -10,11 +10,11 @@
 - Download the .ipynb i.e the Python Notebook and run the same on Jupyter or Spyder or any open source web application
 
 ### Tech Stack (Algorithm's Implemented)
--Logistic Regresssion
--Random Forest
--Decision Tree
+- Logistic Regresssion
+- Random Forest
+- Decision Tree
 
 ## Project Structure
--Employee Attrition Predictor.ipynb - The python notebook containing the Machine Learning Model
--Employee Attrition Predictor.docx -This contains the detailed expained of the libraries used and the step by step process of the algorithm's implemented 
--general_data.csv - This is the historic dataset that has been used as input for the Machine Learning Model
+- Employee Attrition Predictor.ipynb - The python notebook containing the Machine Learning Model
+- Employee Attrition Predictor.docx -This contains the detailed expained of the libraries used and the step by step process of the algorithm's implemented 
+- general_data.csv - This is the historic dataset that has been used as input for the Machine Learning Model
