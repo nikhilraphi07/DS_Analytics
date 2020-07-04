@@ -1,7 +1,7 @@
 # CNN Classifier (Dogs vs Cats)
 
 Dog vs Cat Classifier Model: 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![Dog vs Cat](https://ibb.co/591s8Sq)]
 
 Deep learning model using CNN with the help of Keras library in ternsorflow
 
