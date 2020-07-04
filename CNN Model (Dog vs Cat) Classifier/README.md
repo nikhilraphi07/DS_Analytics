@@ -15,11 +15,11 @@ Deep learning model using CNN with the help of Keras library in Ternsorflow
 
 
 ### Run (Using CPU)
-==================================================================================================================================================
+===================================================================================================
 - Download the .ipynb i.e the Python Notebook on Jupyter, Spyder or any open source web application
 
 ### Run (Using GPU/TPU)
-==================================================================================================================================================
+===================================================================================================
 - Since the CNN model consist of a hugeimage dataset it may not run well on the CPU
 - It is advised to make use of the GPU or TPU provided by Kaggle or Google Colab for faster processing
 
