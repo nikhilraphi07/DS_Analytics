@@ -15,6 +15,6 @@
 -Decision Tree
 
 ## Project Structure
-1. Employee Attrition Predictor.ipynb - The python notebook containing the Machine Learning Model
-2. Employee Attrition Predictor.docx -This contains the detailed expained of the libraries used and the step by step process of the algorithm's implemented 
-3. genral.csv - This is the historic dataset that has been used as input for the Machine Learning Model
+-Employee Attrition Predictor.ipynb - The python notebook containing the Machine Learning Model
+-Employee Attrition Predictor.docx -This contains the detailed expained of the libraries used and the step by step process of the algorithm's implemented 
+-general_data.csv - This is the historic dataset that has been used as input for the Machine Learning Model
