@@ -1,6 +1,6 @@
 ## Employee Attrition Predictor
 
-![Employee Attrition](https://i.ibb.co/dMXBbf3/ted-bauer.jpg)
+![Employee Attrition](https://i.ibb.co/PjzwbJW/rsz-ted-bauer.jpg)
 
 
 ### Machine Learning Model to predict the attribution of employees within an organization
