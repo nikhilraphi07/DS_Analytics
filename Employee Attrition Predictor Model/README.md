@@ -1,5 +1,8 @@
 ## Employee Attrition Predictor
 
+![Employee Attrition](https://i.ibb.co/dMXBbf3/ted-bauer.jpg)
+
+
 ### Machine Learning Model to predict the attribution of employees within an organization
 
 Attrition in a general term means gradual but a significant decrease in the numbers. So when clubbed with employees it basically indicates the number of staff who have left the organization over a particular period of time.
