@@ -9,7 +9,7 @@ Deep learning model using CNN with the help of Keras library in ternsorflow
 
 ### CNN Model Architecture
  
-![alt text](https://drive.google.com/file/d/1ovvOhnWYjd4acHVdK3F0iV3991k5nUYD/view?usp=sharing "Logo Title Text 1")
+![CNN Model](https://i.ibb.co/BfZPvbp/cnn-classifier.jpg)
 
 
 ### Run (Using CPU)
