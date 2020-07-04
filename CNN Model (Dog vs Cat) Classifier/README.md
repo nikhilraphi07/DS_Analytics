@@ -5,7 +5,7 @@
 
 
 
-Deep learning model using CNN with the help of Keras library in ternsorflow
+Deep learning model using CNN with the help of Keras library in Ternsorflow
 
 
 
