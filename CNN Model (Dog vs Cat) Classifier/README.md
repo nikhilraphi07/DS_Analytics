@@ -16,7 +16,7 @@ Deep learning model using CNN with the help of Keras library in ternsorflow
 
 ### Run (Using CPU)
 =================================================================
-- Download the .ipynb i.e the Python Notebook and the same on Jupyter, Spyder or any open source web application
+- Download the .ipynb i.e the Python Notebook on Jupyter, Spyder or any open source web application
 
 ### Run (Using GPU/TPU)
 ====================================================================
